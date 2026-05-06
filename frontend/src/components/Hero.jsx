@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="relative min-h-screen bg-gradient-to-br from-orange-400 via-red-500 to-pink-600 flex items-center overflow-hidden">
+    <section id="inicio" className="relative min-h-screen bg-gradient-to-br from-orange-400 via-red-500 to-pink-600 flex items-center overflow-hidden">
       {/* Círculos decorativos */}
       <div className="absolute top-[-80px] right-[-80px] w-96 h-96 bg-yellow-300 opacity-20 rounded-full blur-3xl" />
       <div className="absolute bottom-[-60px] left-[-60px] w-80 h-80 bg-pink-300 opacity-20 rounded-full blur-3xl" />
@@ -18,12 +18,12 @@ export default function Hero() {
             Os melhores restaurantes da cidade direto na sua porta. Rápido, fácil e delicioso.
           </p>
           <div className="flex flex-wrap gap-4">
-            <button className="bg-white text-orange-500 font-bold px-8 py-4 rounded-2xl shadow-lg hover:scale-105 transition-transform">
+            <a href="#contato" className="bg-white text-orange-500 font-bold px-8 py-4 rounded-2xl shadow-lg hover:scale-105 transition-transform">
               📱 Baixar App
-            </button>
-            <button className="border-2 border-white/60 text-white font-semibold px-8 py-4 rounded-2xl hover:bg-white/10 transition">
+            </a>
+            <a href="#cardapio" className="border-2 border-white/60 text-white font-semibold px-8 py-4 rounded-2xl hover:bg-white/10 transition">
               Ver Cardápio ↓
-            </button>
+            </a>
           </div>
 
           {/* Stats */}

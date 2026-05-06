@@ -8,10 +8,10 @@ export default function Footer() {
             <p className="text-gray-500 mt-1">Comida boa, entrega rápida. 🍔</p>
           </div>
           <div className="flex gap-8 text-sm">
-            <a href="#" className="hover:text-orange-400 transition">Sobre nós</a>
-            <a href="#" className="hover:text-orange-400 transition">Parceiros</a>
-            <a href="#" className="hover:text-orange-400 transition">Privacidade</a>
-            <a href="#" className="hover:text-orange-400 transition">Contato</a>
+            <a href="#features" className="hover:text-orange-400 transition">Sobre nós</a>
+            <a href="#cardapio" className="hover:text-orange-400 transition">Cardápio</a>
+            <a href="#depoimentos" className="hover:text-orange-400 transition">Depoimentos</a>
+            <a href="#contato" className="hover:text-orange-400 transition">Contato</a>
           </div>
         </div>
         <div className="border-t border-gray-800 pt-6 text-center text-sm">

@@ -11,7 +11,7 @@ export default function ContactForm() {
   }
 
   return (
-    <section className="py-24 bg-gradient-to-r from-orange-500 via-red-500 to-pink-600">
+    <section id="contato" className="py-24 bg-gradient-to-r from-orange-500 via-red-500 to-pink-600 scroll-mt-20">
       <div className="max-w-2xl mx-auto text-center px-6">
         <h2 className="text-4xl font-extrabold text-white mb-4">
           Receba ofertas exclusivas 🎉
