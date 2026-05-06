@@ -11,6 +11,7 @@ A página apresenta o aplicativo, lista um cardápio dinâmico carregado da [Spo
 | Victor Zocoler | 568234 |
 | Douglas Taveira | 567846 |
 | Wenderson Santos | 567847 |
+| Guilherme Pereira | 567487 |
 
 ## 🧩 Stack
 
