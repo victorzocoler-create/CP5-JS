@@ -2,7 +2,7 @@ const features = [
   { icon: "⚡", titulo: "Entrega Relâmpago", desc: "Parceiros verificados com entrega média de 28 minutos.", cor: "from-orange-400 to-red-400" },
   { icon: "🍽️", titulo: "200+ Restaurantes", desc: "Das melhores culinárias do mundo até o comfort food que você ama.", cor: "from-pink-400 to-purple-400" },
   { icon: "💳", titulo: "Pague como quiser", desc: "Pix, cartão, vale-refeição ou dinheiro. Zero complicação.", cor: "from-blue-400 to-cyan-400" },
-  { icon: "🎁", titulo: "Promoções Diárias", desc: "Descontos exclusivos todo dia pra você economizar mais.", cor: "from-green-400 to-teal-400" },
+  { icon: "🔍", titulo: "Busca Inteligente", desc: "Filtre por tipo de comida, preço ou dieta. Ache o prato ideal em segundos.", cor: "from-green-400 to-teal-400" },
 ]
 
 export default function Features() {

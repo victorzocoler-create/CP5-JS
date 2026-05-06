@@ -1,6 +1,14 @@
 export default function Hero() {
   return (
-    <section id="inicio" className="relative min-h-screen bg-gradient-to-br from-orange-400 via-red-500 to-pink-600 flex items-center overflow-hidden">
+    <section id="inicio" className="relative min-h-screen flex items-center overflow-hidden">
+      {/* Imagem de fundo com overlay */}
+      <div 
+        className="absolute inset-0 bg-cover bg-center z-0" 
+        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070&auto=format&fit=crop')" }}
+      >
+        <div className="absolute inset-0 bg-gradient-to-br from-orange-500/90 via-red-600/90 to-pink-700/90"></div>
+      </div>
+      
       {/* Círculos decorativos */}
       <div className="absolute top-[-80px] right-[-80px] w-96 h-96 bg-yellow-300 opacity-20 rounded-full blur-3xl" />
       <div className="absolute bottom-[-60px] left-[-60px] w-80 h-80 bg-pink-300 opacity-20 rounded-full blur-3xl" />
