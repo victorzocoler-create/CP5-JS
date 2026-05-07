@@ -16,6 +16,7 @@ A página apresenta o aplicativo, lista um cardápio dinâmico carregado da [Spo
 | Douglas Taveira | 567846 |
 | Wenderson Santos | 567847 |
 | Guilherme Pereira | 567487 |
+| Eduardo Navarro | 568095 |
 
 ## 🧩 Stack
 
