@@ -13,7 +13,7 @@ A página apresenta o aplicativo, lista um cardápio dinâmico carregado da [Spo
 | Nome | RM |
 |------|----|
 | Victor Zocoler | 568234 |
-| Douglas Taveira | 567846 |
+| Douglas Taveira Vilella Roberto | 567846 |
 | Wenderson Santos | 567847 |
 | Guilherme Pereira | 567487 |
 | Eduardo Navarro | 568095 |
