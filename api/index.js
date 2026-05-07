@@ -28,6 +28,11 @@ app.get('/api/comidas', async (req, res) => {
   }
 })
 
-app.listen(PORT, () => {
-  console.log(`API rodando em http://localhost:${PORT}`)
-})
+if (process.env.NODE_ENV !== 'production') {
+  app.listen(PORT, () => {
+    console.log(`API rodando em http://localhost:${PORT}`)
+  })
+}
+
+module.exports = app
+
