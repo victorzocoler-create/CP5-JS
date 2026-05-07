@@ -12,7 +12,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-bold mb-4">Contato</h3>
             <ul className="space-y-2 text-sm">
-              <li>📞 (11) 99999-9999</li>
+              <li>📞 (11) 99999-8888</li>
               <li>📧 contato@gourmeton.com.br</li>
               <li>📍 Av. Paulista, 1000 - São Paulo, SP</li>
             </ul>
